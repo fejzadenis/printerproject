@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Asky_Logo_black_500.png</file>
+  </qresource>
+</RCC>
